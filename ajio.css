@@ -1,0 +1,9 @@
+* {
+	background-color: #222;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.hidden {
+	color: #222;
+}
