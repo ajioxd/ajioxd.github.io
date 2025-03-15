@@ -1,7 +1,12 @@
+@font-face {
+	font-family: 'pixelated';
+	src: url("fonts/pixelated.ttf");
+}
+
 * {
 	background-color: #222;
 	color: white;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: pixelated, Arial, Helvetica, sans-serif;
 }
 
 .hidden {
