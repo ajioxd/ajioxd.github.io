@@ -10,6 +10,8 @@
 	background-color: #222;
 	color: white;
 	font-family: pixelated, Arial, Helvetica, sans-serif;
+	background-image: url("images/sfrh.png");
+	background-repeat: repeat;
 }
 
 .hidden {
