@@ -20,7 +20,7 @@
 	background-color: transparent;
 }
 
-body, #body, .body {
+body, div#body, div.body {
 	background-image: url("https://nixo.nekoweb.org/Stuff/blackgranite.gif");
 	background-repeat: repeat;
 
