@@ -6,7 +6,7 @@
 	font-display: swap;
 }
 
-* {
+body {
 	background-color: #222;
 	color: white;
 	font-family: pixelated, Arial, Helvetica, sans-serif !important;
