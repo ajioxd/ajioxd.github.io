@@ -10,7 +10,7 @@ body {
 	background-color: #222;
 	color: white;
 	font-family: pixelated, Arial, Helvetica, sans-serif !important;
-	background-image: url("https://nixo.nekoweb.org/Stuff/blackgranite.gif");
+	background-image: url("/images/zesty.png");
 	background-repeat: repeat;
 }
 
@@ -25,3 +25,4 @@ body {
 img {
 	background-image: transparent;
 }
+
